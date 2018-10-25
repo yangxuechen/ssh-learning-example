@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+        "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <package name="default" extends="struts-default">
+
+        <action name="welcome" class="com.controller.FirstAction">
+        <result name="ok">/welcome.jsp</result>
+        <result name="fail">/index.jsp</result>
+        </action>
+
+    </package>
+</struts>
