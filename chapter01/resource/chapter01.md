@@ -135,6 +135,8 @@ public class FirstAction extends ActionSupport {
 ```  
 否则返回index.jsp  
 7.部署运行  
+![index页面](https://github.com/yangxuechen/ssh-learning-example/blob/master/chapter01/resource/index.png)  
+![welcome页面](https://github.com/yangxuechen/ssh-learning-example/blob/master/chapter01/resource/welcome.png)  
 8.获取源码地址[https://github.com/yangxuechen/ssh-learning-example](https://github.com/yangxuechen/ssh-learning-example)
 
 
