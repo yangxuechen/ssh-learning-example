@@ -146,7 +146,7 @@
 
 ```  
 2.将项目的包建好，如下图  
-![ssh_1]()  
+![ssh_1](https://github.com/yangxuechen/ssh-learning-example/blob/master/resource/img_ssh_1.jpg)    
 3.在resources文件目录下创建spring配置文件applicationContext.xml  
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -550,4 +550,4 @@ success
 
 ```
 17.测试运行，往数据库中存储了一条记录  
-18.获取项目源码[]()  
+18.获取项目源码[https://github.com/yangxuechen/ssh-learning-example/tree/master/foundSSH](https://github.com/yangxuechen/ssh-learning-example/tree/master/foundSSH)  
