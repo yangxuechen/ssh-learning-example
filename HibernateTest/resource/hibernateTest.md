@@ -67,7 +67,7 @@ public class User {
 }
 
 ```  
-4.新建User.hbm.xml文件  
+4.新建User.hbm.xml文件,建立User类和p_user表的映射关系    
 ```xml
 <?xml version="1.0"?>
 <!--
@@ -220,4 +220,4 @@ Hibernate: select max(user_id) from p_user
 Hibernate: insert into p_user (user_name, user_pwd, user_email, user_id) values (?, ?, ?, ?)
 ```  
 实现了往数据库中插入一条记录的操作  
-获取源码地址[http]()
+获取源码地址[https://github.com/yangxuechen/ssh-learning-example/tree/master/HibernateTest](https://github.com/yangxuechen/ssh-learning-example/tree/master/HibernateTest)
